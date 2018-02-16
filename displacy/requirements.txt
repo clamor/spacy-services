@@ -1,4 +1,4 @@
 falcon
-spacy-nightly==2.0.0rc2
+spacy==2.0.7
 pytest
 gunicorn
